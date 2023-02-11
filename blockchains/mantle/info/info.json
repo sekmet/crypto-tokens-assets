@@ -1,0 +1,29 @@
+{
+    "name": "Mantle Network",
+    "website": "https://mantle.xyz",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://explorer.testnet.mantle.xyz/",
+    "research": "https://mantle.xyz",
+    "symbol": "BIT",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/mantlenetworkio"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/mantlenetworkio"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/mantlenetworkio"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/mantlenetworkio/wiki/wiki/White-Paper"
+        }
+    ]
+}

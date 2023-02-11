@@ -1,0 +1,11 @@
+{
+    "name": "USDT from Ethereum on Mantle",
+    "symbol": "USDT",
+    "type": "MANTLE",
+    "decimals": 6,
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0xF8B3034805e3d4409A0290E40bFB32cC3c909D54",
+    "status": "active",
+    "id": "0xF8B3034805e3d4409A0290E40bFB32cC3c909D54",
+    "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+    "website": "https://tether.to/"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ETH from Ethereum on Mantle",
+    "symbol": "ETH",
+    "type": "MANTLE",
+    "decimals": 18,
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+    "status": "active",
+    "id": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+    "website": "https://ethereum.org/",
+    "description": "-"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "DAI from Ethereum on Mantle",
+    "symbol": "DAI",
+    "type": "MANTLE",
+    "decimals": 8,
+    "description": "DAI is a token on Mantle network issued by Cloakswap, where the price is pegged to DAI at a rate of 1 DAI MANTLE = 1 DAI",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0x1E5acFbAd33093057eB2148482061f8a12383eda",
+    "status": "active",
+    "id": "0x1E5acFbAd33093057eB2148482061f8a12383eda",
+    "website": "https://makerdao.com/en/"
+}

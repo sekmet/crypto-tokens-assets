@@ -1,0 +1,11 @@
+{
+    "name": "USDC from Ethereum on Mantle",
+    "symbol": "USDC",
+    "type": "MANTLE",
+    "decimals": 6,
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0x6926f4A999583868c01D494A8Be710aFA3674a6c",
+    "status": "active",
+    "id": "0x6926f4A999583868c01D494A8Be710aFA3674a6c",
+    "description": "USDC stablecoin originating on Ethereum. 1 USDC = 1 Wrapped USDC",
+    "website": "https://www.centre.io/usdc"
+}
